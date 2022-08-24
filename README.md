@@ -1,4 +1,4 @@
-## Olá meu nome é Amilton Junior
+## Olá meu nome é Amilton Junior estudante de Engenharia de Software
 
 <div align="center">
   <a href="https://github.com/amiltonod">
