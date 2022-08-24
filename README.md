@@ -1,4 +1,4 @@
-## Olá meu nome é Amilton Junior estudante de Engenharia de Software
+## Olá meu nome é Amilton Junior sou estudante de Engenharia de Software:
 
 <div align="center">
   <a href="https://github.com/amiltonod">
@@ -21,3 +21,5 @@
   <a href="https://www.linkedin.com/in/amilton-carvalho-junior-047b5895/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 </div>
+
+![ClipWindowsGIF (2)](https://user-images.githubusercontent.com/98736222/186445866-da518fba-07e2-4f98-939c-da58e821025a.gif)
